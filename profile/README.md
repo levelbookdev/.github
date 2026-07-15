@@ -6,5 +6,6 @@ Each tool handles one part of the job and leaves behind a durable, portable reco
 
 - Website: https://levelbook.dev
 - Public repositories: https://github.com/levelbookdev
+- Architecture doctrine & sibling-files registry: [PATTERNS.md](../PATTERNS.md)
 
 Licensed under the GNU Affero General Public License v3.0 (AGPLv3).
