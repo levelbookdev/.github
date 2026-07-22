@@ -19,7 +19,7 @@ Product pages: [trenchnote.com](https://trenchnote.com) · [LoopCheck](https://l
 
 This org holds the public product cores — source, docs, and landing pages. Private planning and services repositories are kept outside it by design.
 
-- Website: https://levelbook.dev
+- Website: https://levelbook.dev (also at https://levelbook.org)
 - Architecture doctrine & sibling-files registry: [PATTERNS.md](../PATTERNS.md)
 
 Licensed under the GNU Affero General Public License v3.0 (AGPLv3).
